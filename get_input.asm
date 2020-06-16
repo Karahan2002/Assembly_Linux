@@ -57,16 +57,3 @@ _printName:
 	mov rdx,16
 	syscall
 	ret
-
-	
-
-
-
-
-
-
-
-
-
-
-
