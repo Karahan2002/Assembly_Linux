@@ -1,3 +1,9 @@
+;to compile this code 
+;$nasm -f elf64 -o hello.o hello.asm
+;$ld hello.o -o hello
+;./hello
+
+
 section .data
         text db "Hello World",10
 
